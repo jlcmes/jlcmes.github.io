@@ -2,13 +2,15 @@ html,body {
   height: 100%;
 }
 
+
+
 * {
     -moz-box-sizing: border-box;
 }
 
 body {
   background-color: #ededed;
-  color: #424242;
+  color: #424241;
   margin: 0;
   font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size:14px;
